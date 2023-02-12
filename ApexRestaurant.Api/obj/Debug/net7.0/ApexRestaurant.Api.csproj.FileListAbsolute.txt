@@ -1,0 +1,180 @@
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\appsettings.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Api.exe
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Api.deps.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Api.runtimeconfig.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Api.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Api.pdb
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Google.Protobuf.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\MySql.Data.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ZstdNet.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\comerr64.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\gssapi64.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\k5sprt64.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\krb5_64.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\krbcc64.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Repository.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Services.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Services.pdb
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Repository.pdb
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.csproj.AssemblyReference.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.AssemblyInfoInputs.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.AssemblyInfo.cs
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.csproj.CoreCompileInputs.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets\msbuild.ApexRestaurant.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ApexRestaurant.Api.props
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApexRestaurant.Api.props
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApexRestaurant.Api.props
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\scopedcss\bundle\ApexRestaurant.Api.styles.css
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.csproj.CopyComplete
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\refint\ApexRestaurant.Api.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.pdb
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ApexRestaurant.Api.genruntimeconfig.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Api\obj\Debug\net7.0\ref\ApexRestaurant.Api.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\appsettings.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Api.exe
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Api.deps.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Api.runtimeconfig.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Api.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Api.pdb
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\comerr64.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\gssapi64.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\krb5_64.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\krbcc64.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Repository.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Services.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Services.pdb
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\bin\Debug\net7.0\ApexRestaurant.Repository.pdb
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.csproj.AssemblyReference.cache
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.AssemblyInfoInputs.cache
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.AssemblyInfo.cs
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.csproj.CoreCompileInputs.cache
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets\msbuild.ApexRestaurant.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets\msbuild.build.ApexRestaurant.Api.props
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApexRestaurant.Api.props
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApexRestaurant.Api.props
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\scopedcss\bundle\ApexRestaurant.Api.styles.css
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.csproj.CopyComplete
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\refint\ApexRestaurant.Api.dll
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.pdb
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ApexRestaurant.Api.genruntimeconfig.cache
+C:\Users\Baruns\DOTNET lab\apexrestaurant.api\obj\Debug\net7.0\ref\ApexRestaurant.Api.dll

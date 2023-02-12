@@ -1,0 +1,24 @@
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.deps.json
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.pdb
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.csproj.AssemblyReference.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.AssemblyInfoInputs.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.AssemblyInfo.cs
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\refint\ApexRestaurant.Repository.dll
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.pdb
+D:\dotnetCourse\RestaurantProject\ApexRestaurant.Repository\obj\Debug\net7.0\ref\ApexRestaurant.Repository.dll
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.deps.json
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.dll
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\bin\Debug\net7.0\ApexRestaurant.Repository.pdb
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.csproj.AssemblyReference.cache
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.AssemblyInfoInputs.cache
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.AssemblyInfo.cs
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.dll
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\refint\ApexRestaurant.Repository.dll
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ApexRestaurant.Repository.pdb
+C:\Users\Baruns\DOTNET lab\ApexRestaurant.Repository\obj\Debug\net7.0\ref\ApexRestaurant.Repository.dll
